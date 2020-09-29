@@ -1,3 +1,4 @@
 # Urna-eletrônica
-Urna eletrônica feita com HTML, CSS e Javascript.
- 
+Simulador da urna eletrônica feita com HTML, CSS e Javascript.
+
+<img src="images\PrintUrna.PNG" ></img>
