@@ -1,4 +1,4 @@
-# Urna-eletrônica
+# Urna eletrônica
 Simulador da urna eletrônica feita com HTML, CSS e Javascript.
 
 
